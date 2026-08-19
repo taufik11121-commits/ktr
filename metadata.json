@@ -1,0 +1,6 @@
+{
+  "name": "Kashmir & Kolkata Travel & Transport Guide",
+  "description": "Bengali-first offline-capable travel guide for Kashmir and Kolkata with GPS tracking, fare calculator, OpenStreetMap offline support, and Kashmiri phrasebook.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
